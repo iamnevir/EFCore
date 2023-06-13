@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\bin\Debug\net6.0\EFcore.Module.deps.json
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\bin\Debug\net6.0\EFcore.Module.dll
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\bin\Debug\net6.0\EFcore.Module.pdb
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.dll
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\refint\EFcore.Module.dll
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\EFcore.Module.pdb
+C:\Users\ASUS\source\repos\EFcore\EFcore.Module\obj\Debug\net6.0\ref\EFcore.Module.dll
